@@ -1,2 +1,2 @@
 # RandomimgGen
- RandomimgGen in Java
+ RandomimgGen in Java you can edit it very easily
